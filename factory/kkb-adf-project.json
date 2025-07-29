@@ -1,0 +1,9 @@
+{
+	"name": "kkb-adf-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "14e2f9d5-f839-45ed-b752-fe08e6241cbf",
+		"tenantId": "68891130-4821-43f1-bdf1-3c03b92cf07b"
+	}
+}
